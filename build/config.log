@@ -1,4 +1,4 @@
-# project template (0.1) configured on Thu Aug 24 13:19:05 2017 by
+# project template (0.1) configured on Thu Aug 24 14:15:38 2017 by
 # waf 1.8.5 (abi 98, python 2070cf0 on linux2)
 # using ./waf configure
 #
@@ -28,12 +28,12 @@ int main(int argc, char **argv) {
 }
 
 <==
-[1/2] Compiling [32mbuild/.conf_check_619209c5c1d297125b34a36151666150/test.cpp[0m
+[1/2] Compiling [32mbuild/.conf_check_ea235a64c7b097314cce55f8bf5112da/test.cpp[0m
 
-['g++-5', '-Werror', '-std=c++11', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_619209c5c1d297125b34a36151666150/testbuild/test.cpp.1.o']
-[2/2] Linking [33mbuild/.conf_check_619209c5c1d297125b34a36151666150/testbuild/testprog[0m
+['g++-5', '-Werror', '-std=c++11', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_ea235a64c7b097314cce55f8bf5112da/testbuild/test.cpp.1.o']
+[2/2] Linking [33mbuild/.conf_check_ea235a64c7b097314cce55f8bf5112da/testbuild/testprog[0m
 
-['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_619209c5c1d297125b34a36151666150/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_ea235a64c7b097314cce55f8bf5112da/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
 -std=c++11
 ----------------------------------------
 Checking supported CXXFLAGS
@@ -45,12 +45,12 @@ int main(int argc, char **argv) {
 }
 
 <==
-[1/2] Compiling [32mbuild/.conf_check_9e22eac0d93a66587cd5cca3c1a1fa6c/test.cpp[0m
+[1/2] Compiling [32mbuild/.conf_check_b6665e234c559751f1f47d4687a5fd7c/test.cpp[0m
 
-['g++-5', '-std=c++11', '-Werror', '-Wall', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_9e22eac0d93a66587cd5cca3c1a1fa6c/testbuild/test.cpp.1.o']
-[2/2] Linking [33mbuild/.conf_check_9e22eac0d93a66587cd5cca3c1a1fa6c/testbuild/testprog[0m
+['g++-5', '-std=c++11', '-Werror', '-Wall', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_b6665e234c559751f1f47d4687a5fd7c/testbuild/test.cpp.1.o']
+[2/2] Linking [33mbuild/.conf_check_b6665e234c559751f1f47d4687a5fd7c/testbuild/testprog[0m
 
-['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_9e22eac0d93a66587cd5cca3c1a1fa6c/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_b6665e234c559751f1f47d4687a5fd7c/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
 ==>
 
 int main(int argc, char **argv) {
@@ -59,12 +59,12 @@ int main(int argc, char **argv) {
 }
 
 <==
-[1/2] Compiling [32mbuild/.conf_check_1ed5f4d3e518193595819224128638dc/test.cpp[0m
+[1/2] Compiling [32mbuild/.conf_check_3ab827170abc2cd9d868f3a2bb4276a3/test.cpp[0m
 
-['g++-5', '-std=c++11', '-Werror', '-O2', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_1ed5f4d3e518193595819224128638dc/testbuild/test.cpp.1.o']
-[2/2] Linking [33mbuild/.conf_check_1ed5f4d3e518193595819224128638dc/testbuild/testprog[0m
+['g++-5', '-std=c++11', '-Werror', '-O2', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_3ab827170abc2cd9d868f3a2bb4276a3/testbuild/test.cpp.1.o']
+[2/2] Linking [33mbuild/.conf_check_3ab827170abc2cd9d868f3a2bb4276a3/testbuild/testprog[0m
 
-['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_1ed5f4d3e518193595819224128638dc/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_3ab827170abc2cd9d868f3a2bb4276a3/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
 ==>
 
 int main(int argc, char **argv) {
@@ -73,12 +73,12 @@ int main(int argc, char **argv) {
 }
 
 <==
-[1/2] Compiling [32mbuild/.conf_check_8ad1bbca3ba349d99f4a3d6d138b9b5c/test.cpp[0m
+[1/2] Compiling [32mbuild/.conf_check_12e5606bf38d47ebd2495fa8a70295f3/test.cpp[0m
 
-['g++-5', '-std=c++11', '-Werror', '-g', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_8ad1bbca3ba349d99f4a3d6d138b9b5c/testbuild/test.cpp.1.o']
-[2/2] Linking [33mbuild/.conf_check_8ad1bbca3ba349d99f4a3d6d138b9b5c/testbuild/testprog[0m
+['g++-5', '-std=c++11', '-Werror', '-g', '../test.cpp', '-c', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_12e5606bf38d47ebd2495fa8a70295f3/testbuild/test.cpp.1.o']
+[2/2] Linking [33mbuild/.conf_check_12e5606bf38d47ebd2495fa8a70295f3/testbuild/testprog[0m
 
-['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_8ad1bbca3ba349d99f4a3d6d138b9b5c/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
+['g++-5', 'test.cpp.1.o', '-o', '/home/lahmer/ndn/ndnSIM/tutorial1/build/.conf_check_12e5606bf38d47ebd2495fa8a70295f3/testbuild/testprog', '-Wl,-Bstatic', '-Wl,-Bdynamic']
 -Wall -O2 -g
 ----------------------------------------
 Checking for program 'pkg-config'
